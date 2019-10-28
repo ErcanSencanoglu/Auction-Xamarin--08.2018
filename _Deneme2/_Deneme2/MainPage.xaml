@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:_Deneme2"
+             x:Class="_Deneme2.MainPage" Disappearing="ContentPage_Disappearing">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label x:Name="lblIndex" Text="" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+        <StackLayout Orientation="Vertical">
+            <Label x:Name="lbl2" Text="" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+        </StackLayout>
+        <StackLayout Orientation="Vertical">
+            <Label x:Name="lblName" Text="xxxx" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <!-- Place new controls here -->
+          
+            <Label x:Name="lblBaslangi" Text="0000" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+            <Label x:Name="lblGuncel" Text="0000" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+            <Label x:Name="lblArtis" Text="0000" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+        </StackLayout>
+
+
+        <StackLayout Orientation="Vertical" >
+            <!-- Place new controls here -->
+            <Button x:Name="btn1" Text="0000" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" Clicked="btn1_Clicked"/>
+            <Button x:Name="btn2" Text="0000" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" Clicked="btn1_Clicked" />
+            <Button x:Name="btn3" Text="0000" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" Clicked="btn1_Clicked" />
+            <Button x:Name="btn4" Text="0000" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" Clicked="btn1_Clicked" />
+            <StackLayout Orientation="Horizontal">
+                <Entry x:Name="txtFiyat" Placeholder="Bir Fiyat Giriniz"  HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand" Keyboard="Numeric"/>
+                <Button x:Name="btnFiyat" Text="{Binding Source={x:Reference txtFiyat}, Path=Text}" HorizontalOptions="StartAndExpand" VerticalOptions="CenterAndExpand" BackgroundColor="Azure" Clicked="btn1_Clicked" WidthRequest="150"/>
+            </StackLayout>
+        </StackLayout>
+        
+
+
+
+      
+    </StackLayout>
+
+</ContentPage>
