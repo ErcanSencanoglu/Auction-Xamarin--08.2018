@@ -1,1 +1,1 @@
-C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\_Deneme2.UWP.csproj;x86
+C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\_Deneme2.UWP.csproj;x86

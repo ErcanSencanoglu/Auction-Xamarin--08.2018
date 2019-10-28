@@ -7044,11 +7044,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\_Deneme2\\_Deneme2.UWP\\_Deneme2.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\Client\\_Deneme2\\_Deneme2.UWP\\_Deneme2.UWP.csproj",
       "projectName": "_Deneme2.UWP",
-      "projectPath": "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\_Deneme2\\_Deneme2.UWP\\_Deneme2.UWP.csproj",
+      "projectPath": "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\Client\\_Deneme2\\_Deneme2.UWP\\_Deneme2.UWP.csproj",
       "packagesPath": "C:\\Users\\Ercan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\_Deneme2\\_Deneme2.UWP\\obj\\",
+      "outputPath": "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\Client\\_Deneme2\\_Deneme2.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -7068,8 +7068,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\_Deneme2\\_Deneme2\\_Deneme2.csproj": {
-              "projectPath": "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\_Deneme2\\_Deneme2\\_Deneme2.csproj"
+            "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\Client\\_Deneme2\\_Deneme2\\_Deneme2.csproj": {
+              "projectPath": "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\Client\\_Deneme2\\_Deneme2\\_Deneme2.csproj"
             }
           }
         }

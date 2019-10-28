@@ -723,11 +723,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\_Deneme2\\_Deneme2.iOS\\_Deneme2.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\Client\\_Deneme2\\_Deneme2.iOS\\_Deneme2.iOS.csproj",
       "projectName": "_Deneme2.iOS",
-      "projectPath": "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\_Deneme2\\_Deneme2.iOS\\_Deneme2.iOS.csproj",
+      "projectPath": "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\Client\\_Deneme2\\_Deneme2.iOS\\_Deneme2.iOS.csproj",
       "packagesPath": "C:\\Users\\Ercan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\_Deneme2\\_Deneme2.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\Client\\_Deneme2\\_Deneme2.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -744,8 +744,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\_Deneme2\\_Deneme2\\_Deneme2.csproj": {
-              "projectPath": "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\_Deneme2\\_Deneme2\\_Deneme2.csproj"
+            "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\Client\\_Deneme2\\_Deneme2\\_Deneme2.csproj": {
+              "projectPath": "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\Client\\_Deneme2\\_Deneme2\\_Deneme2.csproj"
             }
           }
         }

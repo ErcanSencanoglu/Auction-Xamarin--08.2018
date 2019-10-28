@@ -24,3 +24,16 @@ C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2\obj\Debug\netstandard2.
 C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2\obj\Debug\netstandard2.0\_Deneme2.dll
 C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2\obj\Debug\netstandard2.0\_Deneme2.pdb
+C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2\bin\Debug\netstandard2.0\_Deneme2.deps.json
+C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2\bin\Debug\netstandard2.0\_Deneme2.dll
+C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2\bin\Debug\netstandard2.0\_Deneme2.pdb
+C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2\obj\Debug\netstandard2.0\_Deneme2.csprojAssemblyReference.cache
+C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2\obj\Debug\netstandard2.0\_Deneme2.csproj.CoreCompileInputs.cache
+C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2\obj\Debug\netstandard2.0\_Deneme2.AssemblyInfoInputs.cache
+C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2\obj\Debug\netstandard2.0\_Deneme2.AssemblyInfo.cs
+C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2\obj\Debug\netstandard2.0\_Deneme2.dll
+C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2\obj\Debug\netstandard2.0\_Deneme2.pdb

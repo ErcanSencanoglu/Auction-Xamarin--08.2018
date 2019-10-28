@@ -350,11 +350,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\_Deneme2\\_Deneme2\\_Deneme2.csproj",
+      "projectUniqueName": "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\Client\\_Deneme2\\_Deneme2\\_Deneme2.csproj",
       "projectName": "_Deneme2",
-      "projectPath": "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\_Deneme2\\_Deneme2\\_Deneme2.csproj",
+      "projectPath": "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\Client\\_Deneme2\\_Deneme2\\_Deneme2.csproj",
       "packagesPath": "C:\\Users\\Ercan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\_Deneme2\\_Deneme2\\obj\\",
+      "outputPath": "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\Client\\_Deneme2\\_Deneme2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

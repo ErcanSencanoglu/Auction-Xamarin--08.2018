@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>ec0cc741-fd3e-485c-81be-68815c480690</PackageIdentityName>
     <PackageIdentityPublisher>CN=7f3371b9-0ec3-4d3e-aa97-042759e585ea</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>941F37E8FFCA797A6C676789D33191D50D32E832A3ECD72C5C5FC4DBE949738F</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>861cc290-ce9c-4720-823a-df071d97fc42_1.0.0.0_x86__v6sxjakkm613w</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>861cc290-ce9c-4720-823a-df071d97fc42_v6sxjakkm613w!App</RegisteredUserModeAppID>
@@ -28,16 +28,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-10-28T18:03:08.409</Modified>
+      <Modified>2019-10-28T19:44:30.424</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\bin\x86\Debug\_Deneme2.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\bin\x86\Debug\_Deneme2.UWP.exe">
       <PackagePath>entrypoint\_Deneme2.UWP.exe</PackagePath>
-      <Modified>2019-10-28T18:03:01.460</Modified>
+      <Modified>2019-10-28T19:44:27.481</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ercan\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.0.1\runtimes\win10-x86\nativeassets\uap10.0.15138\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
@@ -711,160 +711,160 @@
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
       <Modified>2018-06-08T04:48:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2\bin\Debug\netstandard2.0\_Deneme2.dll">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2\bin\Debug\netstandard2.0\_Deneme2.dll">
       <PackagePath>_Deneme2.dll</PackagePath>
-      <Modified>2019-10-28T18:02:51.455</Modified>
+      <Modified>2019-10-28T19:44:17.191</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\Assets\LargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-07-27T06:16:59.441</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\Assets\LargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-07-27T06:16:59.444</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\Assets\LargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-07-27T06:16:59.448</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\Assets\SmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-07-27T06:16:59.450</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\Assets\SmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-07-27T06:16:59.452</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\Assets\SmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-07-27T06:16:59.455</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-07-27T06:16:59.457</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-07-27T06:16:59.460</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-07-27T06:16:59.619</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-07-27T06:16:59.621</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-07-27T06:16:59.624</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-07-27T06:16:59.626</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-07-27T06:16:59.628</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-07-27T06:16:59.631</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-07-27T06:16:59.635</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-07-27T06:16:59.641</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-07-27T06:16:59.645</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-07-27T06:16:59.657</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\Assets\Square44x44Logo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-07-27T06:16:59.810</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\Assets\Square44x44Logo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-07-27T06:16:59.813</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\Assets\Square44x44Logo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-07-27T06:16:59.815</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-07-27T06:16:59.819</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\Assets\StoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-07-27T06:16:59.822</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\Assets\StoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-07-27T06:16:59.824</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-07-27T06:16:59.826</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-07-27T06:16:59.829</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-07-27T06:16:59.838</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2018-07-27T06:16:59.998</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\bin\x86\Debug\_Deneme2.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\bin\x86\Debug\_Deneme2.UWP.xr.xml">
       <PackagePath>_Deneme2.UWP.xr.xml</PackagePath>
       <Modified>2018-08-03T09:02:21.192</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-10-28T18:03:00.949</Modified>
+      <Modified>2019-10-28T19:44:26.939</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2019-10-28T18:03:00.952</Modified>
+      <Modified>2019-10-28T19:44:26.943</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -914,14 +914,14 @@
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
       <Modified>2018-06-08T04:48:30.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-10-28T18:03:06.623</Modified>
+      <Modified>2019-10-28T19:44:29.441</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\_Deneme2\_Deneme2.UWP\bin\x86\Debug\Core\_Deneme2.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\Ercan\Desktop\github\_Deneme2\Client\_Deneme2\_Deneme2.UWP\bin\x86\Debug\Core\_Deneme2.UWP.exe">
       <PackagePath>_Deneme2.UWP.exe</PackagePath>
-      <Modified>2019-10-28T18:03:08.387</Modified>
+      <Modified>2019-10-28T19:44:30.413</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

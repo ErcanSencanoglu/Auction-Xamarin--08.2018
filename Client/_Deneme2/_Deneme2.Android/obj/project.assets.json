@@ -766,11 +766,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\_Deneme2\\_Deneme2.Android\\_Deneme2.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\Client\\_Deneme2\\_Deneme2.Android\\_Deneme2.Android.csproj",
       "projectName": "_Deneme2.Android",
-      "projectPath": "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\_Deneme2\\_Deneme2.Android\\_Deneme2.Android.csproj",
+      "projectPath": "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\Client\\_Deneme2\\_Deneme2.Android\\_Deneme2.Android.csproj",
       "packagesPath": "C:\\Users\\Ercan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\_Deneme2\\_Deneme2.Android\\obj\\",
+      "outputPath": "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\Client\\_Deneme2\\_Deneme2.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -787,8 +787,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\_Deneme2\\_Deneme2\\_Deneme2.csproj": {
-              "projectPath": "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\_Deneme2\\_Deneme2\\_Deneme2.csproj"
+            "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\Client\\_Deneme2\\_Deneme2\\_Deneme2.csproj": {
+              "projectPath": "C:\\Users\\Ercan\\Desktop\\github\\_Deneme2\\Client\\_Deneme2\\_Deneme2\\_Deneme2.csproj"
             }
           }
         }
