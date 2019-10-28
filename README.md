@@ -1,12 +1,12 @@
 # Auction
 
-# Auction
+
 
 Server - Client Application for Auction.
 
-Urun program shows, adds, updates and deletes the stuffs, the sales details and the users who can join Auction.  
+Client program has been coded with Xamarin framework that's why client program can work on Windows, Android And IOS systems. 
 
-Client program has been coded with Xamarin framework that's why client program can work on Windows, Android And IOS systems.  
+Urun program shows, adds, updates and deletes the stuffs, the sales details and the users who can join Auction.   
 Clients connect to server with their username and password if server has been launched.  
 Clients are shown on Listview on server program.  
 Server can get stuffs details by their code, enter a starting price and increase amount. Then server can start Auction for that stuffs.  
