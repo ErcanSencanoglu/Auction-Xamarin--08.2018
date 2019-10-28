@@ -18,3 +18,4 @@ Best offer and name of person who gave best offer is shown on Server.
 Informations about Auction situation are shown on Clients screen.  
 After a sale end, best price and name of person who gave best offer are shown on each Client as message also person who buy  the stuffs receive a message to inform.  
 After a sale, sale information is added to database.  
+Clients and server must be connected to LAN.
