@@ -1,0 +1,15 @@
+C:\Users\Ercan\Documents\Visual Studio 2015\Projects\_Server2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Ercan\Documents\Visual Studio 2015\Projects\_Server2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ercan\Documents\Visual Studio 2015\Projects\_Server2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ercan\Documents\Visual Studio 2015\Projects\_Server2\WindowsFormsApplication1\obj\Debug\_Urun.csprojResolveAssemblyReference.cache
+C:\Users\Ercan\Documents\Visual Studio 2015\Projects\_Server2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Ercan\Documents\Visual Studio 2015\Projects\_Server2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ercan\Documents\Visual Studio 2015\Projects\_Server2\WindowsFormsApplication1\obj\Debug\_Urun.csproj.GenerateResource.Cache
+C:\Users\Ercan\Documents\Visual Studio 2015\Projects\_Server2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Ercan\Documents\Visual Studio 2015\Projects\_Server2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ercan\Desktop\github\_Server2\WindowsFormsApplication1\obj\Debug\_Urun.csprojResolveAssemblyReference.cache
+C:\Users\Ercan\Desktop\github\_Server2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Ercan\Desktop\github\_Server2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ercan\Desktop\github\_Server2\WindowsFormsApplication1\obj\Debug\_Urun.csproj.GenerateResource.Cache
+C:\Users\Ercan\Desktop\github\_Server2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Ercan\Desktop\github\_Server2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
